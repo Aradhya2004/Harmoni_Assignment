@@ -4,7 +4,7 @@ import '../App.css'
 
 function Footer() {
     return (
-        <footer className="footer">
+        <footer className="footer bg-dark">
             <div className="footer-container">
                 <div className="footer-section">
                     <h4>About Us</h4>
